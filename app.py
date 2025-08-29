@@ -6,7 +6,7 @@ import ta
 import matplotlib.pyplot as plt
 import io, base64
 
-from core_v22pro import analyze_signals  # کد اصلی سیگنال‌ها از این فایل ایمپورت میشه
+from core_v22pro import analyze_symbol as analyze_signals  # کد اصلی سیگنال‌ها از این فایل ایمپورت میشه
 
 app = FastAPI(title="Trading Signal API",
               description="API برای تولید سیگنال با ابزارهای مختلف تحلیل تکنیکال",
