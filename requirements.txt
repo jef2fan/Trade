@@ -5,3 +5,4 @@ numpy
 ta
 matplotlib
 scikit-learn
+flask
