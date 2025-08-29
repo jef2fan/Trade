@@ -1,0 +1,3 @@
+fastapi uvicorn[standard] pydantic pandas numpy ta matplotlib scikit-learn Flask
+
+
